@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import '../Containers/App.css';
-import '../Components/Validation/box.css';
 import Validation from '../Components/Validation/validation-component';
 import Textinput from '../Components/Text-input';
 import Letterbox from '../Components/letter-box';
